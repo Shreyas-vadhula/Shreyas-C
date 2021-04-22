@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\Sample11\Sample11\obj\Debug\netcoreapp3.1\Sample11.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Sample11\Sample11\obj\Debug\netcoreapp3.1\Sample11.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Sample11\Sample11\obj\Debug\netcoreapp3.1\Sample11.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Sample11\Sample11\bin\Debug\netcoreapp3.1\Sample11.exe
+C:\Users\DELL\source\repos\Sample11\Sample11\bin\Debug\netcoreapp3.1\Sample11.deps.json
+C:\Users\DELL\source\repos\Sample11\Sample11\bin\Debug\netcoreapp3.1\Sample11.runtimeconfig.json
+C:\Users\DELL\source\repos\Sample11\Sample11\bin\Debug\netcoreapp3.1\Sample11.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\Sample11\Sample11\bin\Debug\netcoreapp3.1\Sample11.dll
+C:\Users\DELL\source\repos\Sample11\Sample11\bin\Debug\netcoreapp3.1\Sample11.pdb
+C:\Users\DELL\source\repos\Sample11\Sample11\obj\Debug\netcoreapp3.1\Sample11.dll
+C:\Users\DELL\source\repos\Sample11\Sample11\obj\Debug\netcoreapp3.1\Sample11.pdb
+C:\Users\DELL\source\repos\Sample11\Sample11\obj\Debug\netcoreapp3.1\Sample11.genruntimeconfig.cache
